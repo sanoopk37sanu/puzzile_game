@@ -2,6 +2,7 @@
 Step up instruction
 .............................
 1. create database
+2. create .env file and copy the data env.example file
 
 Run the following command 
 -------------------------
