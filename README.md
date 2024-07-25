@@ -1,7 +1,7 @@
 
-Stepup instruction
+Step up instruction
 .............................
-1.create databse
+1. create database
 
 Run the following command 
 -------------------------
